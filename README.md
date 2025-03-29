@@ -6,9 +6,9 @@ I am a **Computer Engineering student** with a deep interest in **software devel
 I am passionate about **building real-world projects**, continuously improving my **technical skills**, and staying up to date with advancements in the field of software engineering.
 
 ## 🔧 Skills & Technologies  
-- **Programming Languages:** JavaScript, Python (add more as you learn)  
+- **Programming Languages:** JavaScript, Python  
 - **Web Development:** HTML, CSS, JavaScript  
-- **Databases:** (Not implemented yet)  
+- **Databases:** MongoDB  
 - **Other Interests:** Artificial Intelligence, Networking, Software Architecture  
 
 ## 🚀 Current Projects  
