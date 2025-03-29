@@ -13,7 +13,7 @@ I am passionate about **building real-world projects**, continuously improving m
 
 ## 🚀 Current Projects  
 - **[Stoichiometry Web Application](https://github.com/seu-usuario/)** – A tool for chemical equation balancing and molar mass calculations.  
-- *(List other projects if applicable.)*
+
 
 ## 📈 Learning Goals  
 - Deepen my understanding of **backend development** and **databases**.  
@@ -23,8 +23,8 @@ I am passionate about **building real-world projects**, continuously improving m
 ## 📩 Let's Connect  
 I am always open to learning, collaboration, and new opportunities. Feel free to reach out!  
 
-📧 Email: *your-email@example.com*  
-🌐 LinkedIn: [Your Name](https://linkedin.com/in/your-profile)  
+📧 Email: *edu.santos200611@gmail.com*  
+🌐 LinkedIn: [Eduardo Luís de Andrade Santos](https://www.linkedin.com/in/eduardo-luis-de-a-santos-683234264/)  
 
 ---
 <!---
