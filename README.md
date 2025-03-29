@@ -8,11 +8,11 @@ I am passionate about **building real-world projects**, continuously improving m
 ## 🔧 Skills & Technologies  
 - **Programming Languages:** JavaScript, Python (add more as you learn)  
 - **Web Development:** HTML, CSS, JavaScript  
-- **Databases:** (Add your database experience here, e.g., MySQL, PostgreSQL, MongoDB)  
+- **Databases:** (Not implemented yet)  
 - **Other Interests:** Artificial Intelligence, Networking, Software Architecture  
 
 ## 🚀 Current Projects  
-- **[Stoichiometry Web Application](https://github.com/seu-usuario/seu-repositorio)** – A tool for chemical equation balancing and molar mass calculations.  
+- **[Stoichiometry Web Application](https://github.com/seu-usuario/)** – A tool for chemical equation balancing and molar mass calculations.  
 - *(List other projects if applicable.)*
 
 ## 📈 Learning Goals  
