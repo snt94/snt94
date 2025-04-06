@@ -24,7 +24,7 @@ I am passionate about **building real-world projects**, continuously improving m
 I am always open to learning, collaboration, and new opportunities. Feel free to reach out!  
 
 📧 Email: *edu.santos200611@gmail.com*  
-🌐 LinkedIn: [Eduardo Luís de Andrade Santos](www.linkedin.com/in/eduardo-luis-de-andrade-santos)  
+🌐 LinkedIn: [Eduardo Luís de Andrade Santos](https://www.linkedin.com/in/eduardo-luis-de-andrade-santos)  
 
 ---
 <!---
