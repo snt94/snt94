@@ -12,8 +12,8 @@ I am passionate about **building real-world projects**, continuously improving m
 - **Other Interests:** Artificial Intelligence, Networking, Software Architecture  
 
 ## 🚀 Current Projects  
-- **[Stoichiometry Web Application](https://github.com/seu-usuario/)** – A tool for chemical equation balancing and molar mass calculations.  
-
+- **[Stoichiometry Web Application](https://github.com/snt94)** – A tool for chemical equation balancing and molar mass calculations.  
+- **[Deteoriation of Reinforced Concrete Simulator](https://github.com/snt94)** – A tool for chemical equation balancing and molar mass calculations.  
 
 ## 📈 Learning Goals  
 - Deepen my understanding of **backend development** and **databases**.  
