@@ -13,7 +13,7 @@ I am passionate about **building real-world projects**, continuously improving m
 
 ## 🚀 Current Projects  
 - **[Stoichiometry Web Application](https://github.com/snt94)** – A tool for chemical equation balancing and molar mass calculations.  
-- **[Deteoriation of Reinforced Concrete Simulator](https://github.com/snt94)** – A tool for chemical equation balancing and molar mass calculations.  
+- **[Deteoriation of Reinforced Concrete Simulator](https://github.com/snt94)** – Simulator of deterioration. 
 
 ## 📈 Learning Goals  
 - Deepen my understanding of **backend development** and **databases**.  
