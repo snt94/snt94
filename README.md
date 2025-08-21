@@ -1,36 +1,32 @@
-# Welcome!
+# Hi, I'm Eduardo 👋
+## About Me
+I'm a software developer passionate about building clean, scalable, and efficient applications. I enjoy solving complex problems and continuously improving my technical skills.
 
-# About Me
+🌍 Based in Brazil
 
-I'm a Computer Engineering undergraduate focused on software development. I’m currently building real-world projects while expanding my knowledge in:
+💻 Currently working on full-stack projects with Node.js, NestJS, Next.js, and React
 
-- Web development (Frontend & Backend)
-- 3D visualization with **Three.js**
-- Artificial Intelligence and Machine Learning
-- Mobile development
-- Networking and system fundamentals
+🎯 Goal: Become a strong developer and work internationally
 
-I enjoy understanding how technologies work under the hood and applying that knowledge to create useful and well-structured applications.
+Tech Stack
 
----
+Frontend: React, Next.js, TailwindCSS
 
-# Projects
+Backend: Node.js, NestJS, Express
 
-Some examples of what I’ve been working on:
+Languages: JavaScript, TypeScript
 
-- **[Stoichiometry Web App](https://github.com/snt94/stoichiometry-webapp)** – A chemistry-focused application that checks and balances chemical equations automatically.
-- **[3D Concrete Block Simulator](https://github.com/snt94/a3-reinforcedConcrete)** – Built with **Three.js**, includes interactive sliders to simulate corrosion and material degradation.
+Database: PostgreSQL, MySQL, MongoDB
 
-Feel free to explore the repositories to see how I work and learn.
+Tools: Git, Docker
 
----
+Projects
 
-# Goals
+School Management SaaS – Multi-tenant system for school management
 
-- Secure an internship or junior role in software development
-- Build a consistent, high-quality portfolio
-- Grow as a self-reliant, responsible, and creative problem solver
+JavaScript Fundamentals – Repository of essential JS concepts and exercises
 
+Roblox Racing Game – Realistic vehicle physics system for racing games
 ---
 
 # Links
