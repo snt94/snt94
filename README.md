@@ -3,7 +3,7 @@
 ## About Me  
 I'm a **software developer** passionate about building clean, scalable, and efficient applications. I enjoy solving complex problems and continuously improving my technical skills.  
 
-- 🌍 Living in Brazil  
+- 🌍 Based in Brazil  
 - 💻 Currently working on full-stack projects with **Node.js**, **NestJS**, **Next.js**, and **React**  
 - 🎯 Goal: Become a strong developer and work internationally  
 
