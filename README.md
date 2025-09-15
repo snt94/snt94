@@ -17,15 +17,15 @@ I'm a **software developer** passionate about building clean, scalable, and effi
 
 ## 📌 Projects  
 
-- **[School Management SaaS](#)** – Multi-tenant system for school management  
-- **[JavaScript Fundamentals](#)** – Repository of essential JS concepts and exercises  
-- **[Roblox Racing Game](#)** – Realistic vehicle physics system for racing games  
+- **[Escolarium](https://github.com/snt94/escolarium-web)** – Multi-tenant system for school management  
+- **[JavaScript Fundamentals](https://github.com/snt94/javascript-fundamentals)** – Repository of essential JS concepts and exercises  
+- **[RCD-Sim](https://github.com/snt94/rcd-sim)** – 3D Reinforced Concrete Interactive Visualizer  
 
 ---
 
 ## 📫 Contact  
 
-- **Email:** your.email@example.com  
+- **Email:** edu.santos200611@gmail.com  
 - **LinkedIn:** [linkedin.com/in/eduardo-luis-de-andrade-santos](https://www.linkedin.com/in/eduardo-luis-de-andrade-santos/)  
 
 ---
